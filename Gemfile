@@ -3,8 +3,8 @@ source :rubygems
 gem 'sinatra'
 gem "activerecord"
 gem "sinatra-activerecord"
-gem 'pg'
-gem 'rake'
+gem "pg"
+gem "rake"
 
 group :development do
  gem "tux"
